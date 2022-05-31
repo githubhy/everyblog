@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Ever Log</title>
+<link>https://githubhy.github.io/everyblog/index.html</link>
+<atom:link href="https://githubhy.github.io/everyblog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Simple but necessary life log</description>
+<generator>quarto-0.9.483</generator>
+<lastBuildDate>Tue, 31 May 2022 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>A Violin Homework Log Table</title>
+  <dc:creator>Jack Linger</dc:creator>
+  <link>https://githubhy.github.io/everyblog/posts/voilin-log-table/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I created a log table to log the everyday pieces my daughter needs to practice.</p>
+<p>After almost 2 years’ practice, she got a steady and smooth progress now. The tutor are giving more and more pieces to her every week. We often missed some piece in the practice. So I created the following table for her to let her, also me 😅, keep track of the process everyday, turning the task slightly into a game.</p>
+<p>So the table is like this:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://githubhy.github.io/everyblog/posts/voilin-log-table/violin_homework_log.png" class="img-fluid figure-img"></p>
+<p></p><p></p>
+</figure>
+</div>
+<p>The first column of this table is the pieces that she needs to practice. They are going to change every week, depending on what the tutor will teach.</p>
+<p>Other columns are the status of the practice for each piece. We do not need to practice all the pieces every day. So at the start of the practice, a list of pieces could be made, where we could mark the items in it on the table with a small circle ⚪ or something like that.</p>
+<p>If she completed a certain piece, she could mark it as ✅. You do not know how much she loves this, based on my speculation on her today’s session 😆.</p>
+
+
+
+ ]]></description>
+  <category>violin</category>
+  <guid>https://githubhy.github.io/everyblog/posts/voilin-log-table/index.html</guid>
+  <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://githubhy.github.io/everyblog/posts/voilin-log-table/violin_homework_log.png" medium="image" type="image/png" height="71" width="144"/>
+</item>
+</channel>
+</rss>
