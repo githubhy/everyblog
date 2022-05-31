@@ -1,0 +1,38 @@
+---
+title: "Every Log"
+listing:
+  - id: blog-listings
+    contents: posts # directory
+    sort: "date desc"
+    type: default
+    categories: numbered
+    feed: true
+    fields: [image, date, title, author, reading-time]
+    sort-ui: true
+    filter-ui: true
+    page-size: 25
+    image-align: right
+    image-height: None
+    image-placeholder: "profile.jpg"
+    date-format: medium
+  - id: reading-notes
+    contents: reading-notes
+    type: table
+    table-striped: true
+    table-hover: true
+    # field-links: title
+page-layout: full
+title-block-banner: true
+---
+
+No more nagging, just deal with all the things.
+
+## Main Articles
+
+::: {#blog-listings}
+:::
+
+## Reading Notes
+
+::: {#reading-notes}
+:::
